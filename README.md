@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Jiya2712
-- 👀 I’m interested in iOS development.
-- 🌱 I’m currently learning the ins and outs of iOS app development.
-- 💞️ I’m currently interning at [Paytm](https://github.com/paytm) as iOS developer.
 - 📫 You can reach me @ jiya2000garg@gmail.com
 
 <!---
